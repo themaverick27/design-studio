@@ -1,10 +1,10 @@
-# design-studio 🎨
+# design-studio
 
 A fully responsive clone of the award-winning Duo-Studio website. This project highlights an eye for design, interactivity, and user experience — built using modern web technologies like **GSAP**, **Locomotive.js**, and **Swiper.js** to create fluid, scroll-driven animations and transitions.
 
----
+---     
 
-## ✨ Features
+## Features 
 
 - **Dynamic Animations**: Built with [GSAP](https://greensock.com/gsap/) and [ScrollTrigger](https://greensock.com/scrolltrigger/) to create engaging animations and transitions.
 - **Smooth Scrolling**: Implemented using [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/), adding inertia and parallax-like effects.
@@ -12,9 +12,9 @@ A fully responsive clone of the award-winning Duo-Studio website. This project h
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile screens.
 - **Interactive UI Elements**: Hover effects, transitions, and motion to elevate user engagement.
 
----
+--- 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5**  
 - **CSS3**
@@ -26,7 +26,7 @@ A fully responsive clone of the award-winning Duo-Studio website. This project h
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 duo-studio-clone/
@@ -37,7 +37,7 @@ duo-studio-clone/
 └── README.md              # Project documentation
 ```
 
-## 🚀 Run Locally
+## Run Locally
 
 Clone the repo and open `index.html` in your browser:
 
@@ -55,7 +55,7 @@ git clone https://github.com/themaverick27/design-studio.git
 
 ---
 
-## 📞 Contact
+## Contact
 
 If you’d like to connect or collaborate, reach out via [LinkedIn](https://www.linkedin.com/in/aniweshkumar27/).
 
